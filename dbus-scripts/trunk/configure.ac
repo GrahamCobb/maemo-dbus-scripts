@@ -13,6 +13,7 @@ PKG_CHECK_MODULES(DEPS, $DEP_MODULES)
 AC_SUBST(DEPS_FLAGS)
 
 AC_OUTPUT([
+dbus-scripts
 Makefile
 src/Makefile
 ])
