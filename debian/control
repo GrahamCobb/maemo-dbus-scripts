@@ -1,5 +1,5 @@
 Source: dbus-scripts
-Section: unknown
+Section: devel
 Priority: optional
 Maintainer: Graham Cobb <g+770@cobb.uk.net>
 Build-Depends: debhelper (>= 4.0.0), autotools-dev, automake, autoconf (>=2.57), libdbus-1-dev, libdbus-glib-1-dev
